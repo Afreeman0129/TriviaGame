@@ -1,10 +1,11 @@
 body{
-	background-image: url(https://dynastyleaguefootball.com/wp-content/uploads/2017/01/Ravens.jpg);
+	background-image: url(https://thebaltimorewire.com/wp-content/blogs.dir/297/files/2015/02/jacoby-jones-nfl-minnesota-vikings-baltimore-ravens2.jpg);
 	text-align: center;
 }
 
 .text-muted{
-	color: blue;
+    color: rgb(187, 5, 187);
+    font-size: 50px;
 }
 .last-seconds{
   color: red;
