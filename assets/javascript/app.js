@@ -38,55 +38,55 @@ $(document).ready(function(){
   
     questions: {
   
-      q1: 'Who is actually a chef?',
+      q1: 'Which one of these is *not* an official color of the Baltimore Ravens? ?',
   
-      q2: 'What does Joey love to eat?',
+      q2: 'What was the first year for the Baltimore Ravens in the NFL?',
   
-      q3: 'How many times has Ross been divorced?',
+      q3: ' Who set a Ravens record by rushing for 227 yards in a single game, in 1998? ',
   
-      q4: 'How many types of towels does Monica have?',
+      q4: ' What Ravens player wore #15? ',
   
-      q5: "Who stole Monica's thunder after she got engaged?",
+      q5: "Who was the head coach of the Ravens in 2000? ",
   
-      q6: 'Who hates Thanksgiving?',
+      q6: 'Which outstanding first-round draft pick was wearing #20? ',
   
-      q7: "Who thinks they're always the last to find out everything?"
+      q7: " How many rushing yards did Jamal Lewis have in the 2000 Super Bowl season?  "
   
     },
   
     options: {
   
-      q1: ['Monica', 'Chandler', 'Rachel', 'Ross'],
+      q1: ['Purple', 'Black', 'Gold', 'Blue'],
   
-      q2: ['Fish', 'Apples', 'Oranges', 'Sandwhiches'],
+      q2: ['1995', '1990', '1996', '2000'],
   
-      q3: ['5', '2', '1', '3'],
+      q3: ['Priest Holmes', '29', '1', '3'],
   
-      q4: ['3', '8', '11', '6'],
+      q4: [' Dave Zastudil  ', 'Ray Rice', 'Gus Edwards', 'Freeman'],
   
-      q5: ['Rachel','Phoebe','Emily','Carol'],
+      q5: ['Brian Billick ','webb','Sizzle','Zadaruis Smith'],
   
-      q6: ['Joey','Chandler','Rachel','Ross'],
+      q6: [' Ed Reed','John Harbaugh','Art','Alex Freeman'],
   
-      q7: ['Ross', 'Phoebe', 'Monica','Chandler']
+      q7: ['1364 ', '1200', '1466','2000']
   
     },
   
     answers: {
   
-      q1: 'Monica',
+      q1: 'Blue',
   
-      q2: 'Sandwhiches',
+      q2: '1996',
   
-      q3: '3',
+      q3: 'Priest Holmes ',
   
-      q4: '11',
+      q4: 'Dave Zastudil',
   
-      q5: 'Rachel',
+      q5: 'Brian Billick ',
   
-      q6: 'Chandler',
+      q6: 'Ed Reed ',
   
-      q7: 'Phoebe'
+      q7: '1364 '
   
     },
   
